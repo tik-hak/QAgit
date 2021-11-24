@@ -5,5 +5,15 @@
     padding: 15px;
     background-color:tomato ;
     color: white;
+    position: absolute;
+    top: 50px;
+    
 
 }
+.image {
+  position: relative;
+  text-align: center;
+  color: white;
+
+}
+
